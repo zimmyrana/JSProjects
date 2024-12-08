@@ -1,0 +1,1 @@
+goto proxy server and run https://cors-anywhere.herokuapp.com/
